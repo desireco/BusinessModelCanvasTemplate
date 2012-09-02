@@ -1,0 +1,19 @@
+BODY {font-family: 'Lato', sans-serif;}
+
+H1 {font-weight: 900;}
+H4 {font-weight: 400;}
+
+#bizcanvas {
+  border: 3px solid black;
+  width: 100%;
+}
+
+#bizcanvas td {
+  vertical-align: top;
+  height: 200px;
+  width: 200px;
+  padding: 6px;
+}
+#bizcanvas p {
+  font-weight: 300;
+}
