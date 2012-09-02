@@ -1,7 +1,6 @@
-BODY {font-family: 'Lato', sans-serif;}
+BODY {font-family: 'Headland One', serif;}
 
 H1 {font-weight: 900;}
-H4 {font-weight: 400;}
 
 #bizcanvas {
   border: 3px solid black;
@@ -14,6 +13,14 @@ H4 {font-weight: 400;}
   width: 200px;
   padding: 6px;
 }
+
+
+#bizcanvas H4 {
+  font-weight: 700;
+  font-size: 1em;
+}
+
 #bizcanvas p {
   font-weight: 300;
+  font-size: 0.8em;
 }
