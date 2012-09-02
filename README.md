@@ -15,7 +15,7 @@ Idea is that you will fork this, use it to analyze your ideas. Make versions old
 
 I have to mention existing online tools as well, however I do believe this and paper to be superior.
 
-Here is one from Ash Maurya's Spart59:
+Here is one from Ash Maurya's Spark59:
 http://leancanvas.com/
 
 And there is one promoted by Steve Blank:
