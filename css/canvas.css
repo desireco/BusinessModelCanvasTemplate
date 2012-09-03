@@ -20,6 +20,11 @@ H1 {font-weight: 900;}
   font-size: 1em;
 }
 
+#bizcanvas H5 {
+  font-weight: 700;
+  font-size: 0.7em;
+}
+
 #bizcanvas p {
   font-weight: 300;
   font-size: 0.8em;
